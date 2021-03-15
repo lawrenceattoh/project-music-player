@@ -1,0 +1,119 @@
+ <html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Technical Test</title>
+    <!-- CSS -->
+    <link
+      rel="stylesheet"
+      href="https://cdn.jsdelivr.net/npm/bootstrap@4.5.3/dist/css/bootstrap.min.css"
+      integrity="sha384-TX8t27EcRE3e/ihU7zmQxVncDAy5uIKz4rEkgIXeMed4M0jlfIDPvg6uqKI2xXr2"
+      crossorigin="anonymous"
+    />
+    <link rel="stylesheet" href="./css/index.css" />
+    <!-- JS -->
+    <script src="./js/jquery-3.5.1.js"></script>
+    <script src="./js/jquery-ui.js"></script>
+    <script src="./js/popper.min.js"></script>
+    <script src="./js/bootstrap.min.js"></script>
+     <script src="https://cdn.jsdelivr.net/npm/sweetalert2@10"></script>
+  </head>
+  <body>
+    <!-- Navbar -->
+    <nav class="navbar navbar-expand-lg bg-primary">
+      <a class="navbar-brand" href="/">Technical Test</a>
+  
+
+      <div class="collapse navbar-collapse" id="navbarSupportedContent">
+        <ul class="navbar-nav ml-auto">
+          <li class="nav-item active">
+            <a class="nav-link" href="/"
+              >Home <span class="sr-only">(current)</span></a
+            >
+          </li>
+          <li class="nav-item active">
+            <a class="nav-link" href="/musicPlayer.html"
+              >Music Player <span class="sr-only"></span
+            ></a>
+          </li>
+        </ul>
+      </div>
+    </nav>
+    <!-- Carousel List -->
+    <div class="container">
+      <div id="courselContainer"></div>
+    </div>
+    <!-- Footer -->
+    <footer class="footer bg-primary">
+      <div class="footerTitle">Technical Test</div>
+      <form class="form-inline" id="contact-form">
+        <div class="form-group register-group mx-sm-3 mb-2">
+          <label for="name" class="sr-only">Name</label>
+          <input
+            type="text"
+            name="Name"
+            class="form-control"
+            id="Name"
+            placeholder="Enter Name"
+            onkeyup="ShowError(this)"
+          />
+          <small id="errorName" class="error">Name is required</small>
+        </div>
+        <div class="form-group register-group mx-sm-3 mb-2">
+          <label for="email" class="sr-only">Email</label>
+          <input
+            type="email"
+            name="Email"
+            class="form-control"
+            id="Email"
+            placeholder="Enter Email"
+            onkeyup="ShowError(this)"
+          />
+          <small id="errorEmail" class="error">Email is required</small>
+        </div>
+        <div class="form-group register-group mx-sm-3 mb-2">
+          <label for="password" class="sr-only">Password</label>
+          <input
+            type="password"
+            name="Password"
+            class="form-control"
+            id="Password"
+            placeholder="Enter Password"
+            onkeyup="ShowError(this)"
+          />
+          <small id="errorPassword" class="error">Password is required</small>
+        </div>
+        <div class="form-group register-group mx-sm-3 mb-2">
+          <label for="validatePass" class="sr-only">Validate Password</label>
+          <input
+            type="password"
+            name="validatePass"
+            class="form-control"
+            id="validatePass"
+            placeholder="Validate Password"
+            onkeyup="ShowError(this)"
+          />
+          <small id="errorValidatePass" class="error">
+                Password and Validate Password are not the same
+          </small>
+         
+          
+        </div>
+        <div class="form-group register-group mx-sm-3 mb-3">
+          <button type="submit" class="btn btn-light mb-2" id="register">
+            Register
+          </button>
+        </div>
+      </form>
+      <div class="CopyRight">
+        &copy; Copyright
+        <script>
+          document.write(new Date().getFullYear());
+        </script>
+        , Technical Test | All rights
+      </div>
+    </footer>
+    <script src="./js/index.js"></script>
+  </body>
+</html>

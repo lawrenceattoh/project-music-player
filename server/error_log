@@ -1,0 +1,168 @@
+[11-Mar-2021 11:51:01 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/designco/public_html/server/register.php:71
+Stack trace:
+#0 /home/designco/public_html/server/register.php(19): register->AddUser('njcas', 'abdullahabid427...', 'Hello123')
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 71
+[11-Mar-2021 11:53:42 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/designco/public_html/server/register.php:71
+Stack trace:
+#0 /home/designco/public_html/server/register.php(19): register->AddUser('njcas', 'abdullahabid427...', 'Hello123')
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 71
+[11-Mar-2021 11:55:05 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/designco/public_html/server/register.php:71
+Stack trace:
+#0 /home/designco/public_html/server/register.php(19): register->AddUser('njcas', 'abdullahabid427...', 'Hello123')
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 71
+[11-Mar-2021 11:55:28 UTC] PHP Fatal error:  Uncaught Error: Call to a member function prepare() on null in /home/designco/public_html/server/register.php:71
+Stack trace:
+#0 /home/designco/public_html/server/register.php(19): register->AddUser('mcjan', 'abdullahabid427...', 'Hello1')
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 71
+[12-Mar-2021 12:20:45 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:161
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 161
+[12-Mar-2021 14:58:42 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:161
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 161
+[12-Mar-2021 14:58:57 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:161
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 161
+[12-Mar-2021 15:00:02 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:161
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 161
+[12-Mar-2021 15:00:28 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:161
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 161
+[12-Mar-2021 15:02:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:161
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 161
+[12-Mar-2021 15:02:23 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:161
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 161
+[12-Mar-2021 15:04:00 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:161
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 161
+[12-Mar-2021 15:07:29 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:161
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 161
+[12-Mar-2021 15:09:36 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:161
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 161
+[12-Mar-2021 15:18:07 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:167
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 167
+[12-Mar-2021 15:18:15 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:167
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 167
+[12-Mar-2021 15:20:30 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:167
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 167
+[12-Mar-2021 15:21:03 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:167
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 167
+[12-Mar-2021 15:23:08 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:167
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 167
+[12-Mar-2021 15:28:52 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:167
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 167
+[12-Mar-2021 15:29:37 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:168
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 168
+[12-Mar-2021 15:30:13 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:168
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 168
+[12-Mar-2021 15:31:10 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:168
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 168
+[12-Mar-2021 15:31:18 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:168
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 168
+[12-Mar-2021 15:31:41 UTC] PHP Fatal error:  Uncaught ArgumentCountError: Too few arguments to function register::EmailExists(), 0 passed in /home/designco/public_html/server/register.php on line 16 and exactly 1 expected in /home/designco/public_html/server/register.php:168
+Stack trace:
+#0 /home/designco/public_html/server/register.php(16): register->EmailExists()
+#1 {main}
+  thrown in /home/designco/public_html/server/register.php on line 168
+[12-Mar-2021 15:32:47 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/designco/public_html/server/register.php:172
+Stack trace:
+#0 /home/designco/public_html/server/register.php(172): PDOStatement->execute(Array)
+#1 /home/designco/public_html/server/register.php(16): register->EmailExists(NULL)
+#2 {main}
+  thrown in /home/designco/public_html/server/register.php on line 172
+[12-Mar-2021 15:33:32 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/designco/public_html/server/register.php:172
+Stack trace:
+#0 /home/designco/public_html/server/register.php(172): PDOStatement->execute(Array)
+#1 /home/designco/public_html/server/register.php(16): register->EmailExists(NULL)
+#2 {main}
+  thrown in /home/designco/public_html/server/register.php on line 172
+[12-Mar-2021 15:34:18 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/designco/public_html/server/register.php:173
+Stack trace:
+#0 /home/designco/public_html/server/register.php(173): PDOStatement->execute(Array)
+#1 /home/designco/public_html/server/register.php(16): register->EmailExists(NULL)
+#2 {main}
+  thrown in /home/designco/public_html/server/register.php on line 173
+[12-Mar-2021 15:41:42 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/designco/public_html/server/register.php:172
+Stack trace:
+#0 /home/designco/public_html/server/register.php(172): PDOStatement->execute(Array)
+#1 /home/designco/public_html/server/register.php(16): register->EmailExists('abdullahabid427...')
+#2 {main}
+  thrown in /home/designco/public_html/server/register.php on line 172
+[12-Mar-2021 15:42:06 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/designco/public_html/server/register.php:172
+Stack trace:
+#0 /home/designco/public_html/server/register.php(172): PDOStatement->execute(Array)
+#1 /home/designco/public_html/server/register.php(16): register->EmailExists('abdullahabid427...')
+#2 {main}
+  thrown in /home/designco/public_html/server/register.php on line 172
+[12-Mar-2021 15:43:38 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/designco/public_html/server/register.php:174
+Stack trace:
+#0 /home/designco/public_html/server/register.php(174): PDOStatement->execute(Array)
+#1 /home/designco/public_html/server/register.php(16): register->EmailExists('abdullahabid427...')
+#2 {main}
+  thrown in /home/designco/public_html/server/register.php on line 174
+[12-Mar-2021 15:45:03 UTC] PHP Fatal error:  Uncaught PDOException: SQLSTATE[HY093]: Invalid parameter number: parameter was not defined in /home/designco/public_html/server/register.php:174
+Stack trace:
+#0 /home/designco/public_html/server/register.php(174): PDOStatement->execute(Array)
+#1 /home/designco/public_html/server/register.php(16): register->EmailExists('abdullahabid427...')
+#2 {main}
+  thrown in /home/designco/public_html/server/register.php on line 174
+[12-Mar-2021 15:45:54 UTC] PHP Recoverable fatal error:  Object of class PDOStatement could not be converted to string in /home/designco/public_html/server/register.php on line 175

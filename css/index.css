@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:wght@300;400;700&display=swap');
+
+body{
+    font-family: 'Raleway', sans-serif;
+}
+.navbar-brand,
+.nav-link{
+    color: white;
+}
+#navbarSupportedContent{
+    display: inline;
+}
+.CarouselHeading{
+    
+    font-size: 16px;
+    font-weight: bold;
+    padding-top: 2rem;
+}
+
+.carousel-inner{
+    position: relative;
+}
+.carousel-item{
+    position: relative;
+    height: 30rem;
+}
+/* .carousel-caption{
+    background-color: red;
+    color: yellow;
+} */
+.CarouselImage{
+    object-fit: cover;
+    height: 100%;
+    width: 100%;
+    max-height: 30rem;
+    border-radius:5px !important;
+}
+.footer{
+    margin-top: 1rem;
+    padding: 1rem;
+    color: white;
+}
+.footerTitle{
+    width: 100%;
+    font-size: 1.3rem;
+    padding:1rem;
+    position: block;
+}
+.CopyRight{
+    width: 100%;
+    text-align: center;
+}
+.register-group{
+    display: block !important;
+}
+.error{
+    /*display: none;*/
+    color: red;
+    opacity: 0;
+    display:block;
+}
+
+@media (max-width: 576px) { 
+    .register-group{
+        width: 100% !important;
+    }
+ }
